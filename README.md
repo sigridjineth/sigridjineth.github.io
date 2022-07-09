@@ -1,6 +1,6 @@
 # flutter_example
 
-A new Flutter project.
+A new Flutter project on next-step
 
 ## Getting Started
 
